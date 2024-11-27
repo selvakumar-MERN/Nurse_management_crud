@@ -14,7 +14,7 @@ function App() {
     <>
     <ToastContainer />
            <BrowserRouter>
-      {/* authentication */}
+      {/* Nurse dashboard  */}
       <Routes>
       <Route exact path='/' element={<Home />} />
       </Routes>
